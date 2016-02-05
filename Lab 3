@@ -5,6 +5,9 @@ control
 
 For use with the Adafruit Motor Shield v2 
 ---->  http://www.adafruit.com/products/1438
+
+CS543 - Lab 3
+Soheil Kianzad & Salma Kashani
 */
 
 //#include <Wire.h>
